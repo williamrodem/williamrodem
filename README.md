@@ -1,4 +1,4 @@
-### Olá, Eu sou William Rodem 👋 ###
+## Olá eu sou a William Rodem, Desenvolvedor Fullstack!
 <div align="center">
   <a href="https://github.com/williamrodem">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamrodem&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -12,6 +12,7 @@
   <img align="center" alt="William-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="William-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="William-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="William-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
   <img align="center" alt="William-LARAVEL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="William-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
 
