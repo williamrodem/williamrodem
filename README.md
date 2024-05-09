@@ -11,7 +11,7 @@
   <img align="center" alt="William-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="William-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="William-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="William-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="William-PHP" height="30" width="40" src="https://static-00.iconduck.com/assets.00/php-icon-256x135-lt0r2fkp.png">
   <img align="center" alt="William-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
   <img align="center" alt="William-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
   <img align="center" alt="William-LARAVEL" height="30" width="40" src="https://static-00.iconduck.com/assets.00/laravel-icon-248x256-6tduph6g.png">
