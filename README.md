@@ -1,4 +1,4 @@
-## Olá Eu Sou O William Rodem, Desenvolvedor Fullstack!
+## HELLO!! I'M William Rodem, Desenvolvedor Fullstack!
 <div align="center">
   <a href="https://github.com/williamrodem">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamrodem&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
