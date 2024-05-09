@@ -15,7 +15,9 @@
   <img align="center" alt="William-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
   <img align="center" alt="William-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
   <img align="center" alt="William-LARAVEL" height="30" width="40" src="https://static-00.iconduck.com/assets.00/laravel-icon-248x256-6tduph6g.png">
+  <img align="center" alt="William-NodeJs" height="30" width="40" src="https://static-00.iconduck.com/assets.00/file-type-node-icon-227x256-ytgv2nxg.png">
   <img align="center" alt="William-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  
 
 </div>
   
